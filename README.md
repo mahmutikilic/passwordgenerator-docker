@@ -1,6 +1,6 @@
 ## Password Generator in Docker İmage
 ### Notification
-#### If you want to download the image directly, click the link
+#### If you want to see image on hub.docker, click the below link
 #### This raw repo was developed to can develop and use another tools 
 [hub.docker image](https://hub.docker.com/r/mahfur51/pythonpassgeneratorv2)
 
